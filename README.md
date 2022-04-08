@@ -1,0 +1,2 @@
+# exploratory_analysis_of_movies_with_IMDB
+Exploratory data analysis using the movies information base with IMDB. Using Python and SQL languages, 10 business questions (arbitrated) were answered, applying various statistical concepts to provide answers with the greatest possible precision. The link to download the database is directly presented in the code.
